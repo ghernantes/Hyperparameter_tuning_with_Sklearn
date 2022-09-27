@@ -135,7 +135,7 @@ That is a brief summary of the project results and some things learnt from it.
   Here we trained two SVM models on the same training set and with default parameters. Accuracy and confusion matrix results are:
 
   - **Linear SVM:**
-    - test set accuracy_score = 0.8732
+    - test set accuracy_score = 0.8798
     - test confusion matrix:
 
       <img src='./img/2.2.2_Linear_SVM_Test_Confusion_Matrix.png' alt='' width=350>
